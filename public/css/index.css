@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Another Danger Slanted(RUS BY L", sans-serif;
+}
+
+html {
+    font-size: 1vw;
+}
+
+.app__title {
+    font-size: 5rem;
+    text-align: center;
+}
+
+.container {
+    width: 80rem;
+    margin: 0 auto;
+}
+
+.swiper-container {
+    height: 40rem;
+}
+
+.swiper-slide {
+    background-color: black;
+    color: white;
+}
+
+.swiper-zoom-container img {
+    object-fit: initial;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+}
